@@ -1,0 +1,4 @@
+train: 'write your path'
+val: 'write your path'
+nc: 3
+names: ['drone', 'bird', 'big_drone'] 
