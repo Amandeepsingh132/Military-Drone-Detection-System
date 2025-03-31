@@ -77,6 +77,8 @@ military-drone-detection/
 │   └── synthetic_49.jpg
 └── requirements.txt      # Project dependencies
 ```
+![ss1](https://github.com/user-attachments/assets/80971f46-f008-490b-a283-99d0fa82ec96)
+![ss2](https://github.com/user-attachments/assets/0595b698-56fc-4946-a16a-986d134e9d83)
 
 ## 🤝 Contributing
 
